@@ -28,6 +28,10 @@ The backend instantiates independent state-memory isolated sessions (`ai.chats.c
 
 ---
 
+## Source Code 
+
+🚀 **[View the Core Python Source Code Here](./AI_assistant_WhatsApp-Copy1.ipynb)**
+
 ## 🚀 Step-by-Step Deployment Blueprint
 
 ### 1. Environment Setup
