@@ -32,6 +32,12 @@ The backend instantiates independent state-memory isolated sessions (`ai.chats.c
 
 🚀 **[View the Core Python Source Code Here](./AI_assistant_WhatsApp-Copy1.ipynb)**
 
+## 📺 Live Prototype Demonstration
+
+See the WhatsApp Business AI Assistant in action! Click the link below to watch the live video demonstration of the prototype responding to customer inquiries:
+
+📱 **[Watch the Live WhatsApp Prototype on YouTube](https://youtube.com/shorts/TNiN0MvUbM4?si=aH8kBHtdt4vAOO-g)**
+
 ## 🚀 Step-by-Step Deployment Blueprint
 
 ### 1. Environment Setup
